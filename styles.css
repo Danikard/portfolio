@@ -26,13 +26,14 @@ h1 {
   }
      
   .list{
-    /* text-align: center; */
+    
     display:flex;
-    /* flex-direction: column; */
+    
     justify-content: center; 
     
     }
-    
-    /* li {
-    display: inline-block;
-    } */
+    h3 {
+        color: green;
+        font-style: sans-serif;
+        text-align: center;
+    }
