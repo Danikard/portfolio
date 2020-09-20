@@ -20,9 +20,19 @@ h1 {
     margin-right: auto;
     width: 50%;
   }
-  
+  header {
+    text-align: center;
+    size: 16px;
+  }
      
+  .list{
+    /* text-align: center; */
+    display:flex;
+    /* flex-direction: column; */
+    justify-content: center; 
     
-     
+    }
     
- 
+    /* li {
+    display: inline-block;
+    } */
