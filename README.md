@@ -4,7 +4,7 @@
 first individual project of first week at moringa's wecode program
 #### instructions
 make a personal online portfolio with good use of html and css 
-include different basic thtmls and css tags
+include different basic html and css tags
 #### link to my portfolio
 https://danikard.github.io/portfolio/
 #### lisence
