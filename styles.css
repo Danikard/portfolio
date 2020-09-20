@@ -21,6 +21,7 @@ h1 {
     width: 50%;
   }
   header {
+    background-color:#C0C0C0;
     text-align: center;
     size: 16px;
   }
@@ -43,12 +44,17 @@ h4 {
     text-align: center;
 }
 h5 {
-    color: greenyellow
+    color: greenyellow;
     font-style: sans-serif;
     text-align: center;
 
 } 
 body {
     background-image: url("paper.gif");
-    background-color: blueviolet;
+    background-color: whitesmoke;
+    
+   }
+footer {
+  background-color: gray;
+    text-align: center;
    }
